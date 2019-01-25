@@ -34,7 +34,7 @@ p.intro {
 	line-height: 24px;
 }
 a {
-	color: #008B8B;
+	color: #ff9933;
 }
 a:hover, a:focus {
 	text-decoration: none;
@@ -53,7 +53,7 @@ hr {
 	width: 70px;
 	text-align: center;
 	position: relative;
-	background: #008B8B;
+	background: #ff9933;
 	margin: 0 auto;
 	margin-bottom: 20px;
 	border: 0;
@@ -74,7 +74,7 @@ hr {
 	text-transform: uppercase;
 }
 #menu a.navbar-brand i.fa {
-	color: #008B8B;
+	color: #ff9933;
 	vertical-align: top;
 }
 #menu.navbar-default .navbar-nav > li > a {
@@ -85,7 +85,7 @@ hr {
 	letter-spacing: 1px;
 }
 #menu.navbar-default .navbar-nav > li > a:hover {
-	color: #008B8B;
+	color: #ff9933;
 }
 .on {
 	background-color: #f6f6f6 !important;
@@ -93,15 +93,15 @@ hr {
 	padding: 10px 0 !important;
 }
 .navbar-default .navbar-nav > .active > a, .navbar-default .navbar-nav > .active > a:hover, .navbar-default .navbar-nav > .active > a:focus {
-	color: #008B8B !important;
+	color: #ff9933 !important;
 	background-color: transparent;
 }
 .navbar-toggle {
 	border-radius: 0;
 }
 .navbar-default .navbar-toggle:hover, .navbar-default .navbar-toggle:focus {
-	background-color: #008B8B;
-	border-color: #008B8B;
+	background-color: #ff9933;
+	border-color: #ff9933;
 }
 .navbar-default .navbar-toggle:hover>.icon-bar {
 	background-color: #FFF;
@@ -115,7 +115,7 @@ hr {
 .btn-custom {
 	text-transform: uppercase;
 	color: #fff;
-	background-color: #008B8B;
+	background-color: #ff9933;
 	border: 0;
 	padding: 14px 20px;
 	margin: 0;
@@ -144,7 +144,7 @@ hr {
 	background: rgba(255,255,255,0.2);
 }
 .intro h1 {
-	color: #008B8B;
+	color: #ff9933;
 	font-size: 74px;
 	font-weight: 600;
 	margin-top: 0;
@@ -175,7 +175,7 @@ header .intro-text {
 }
 #about img {
 	display: inline-block;
-	border-color: #008B8B;
+	border-color: #ff9933;
 	border-radius: 20px;
 	padding: 20px;
 }
@@ -188,7 +188,7 @@ header .intro-text {
 }
 #about .about-text li:before {
 	content: "✓";
-	color: #008B8B;
+	color: #ff9933;
 	padding-right: 10px;
 }
 #about p {
@@ -206,11 +206,12 @@ header .intro-text {
 #services .fa {
 	font-size: 48px;
 	margin: 20px 0;
-	color: #008B8B;
+	color: #ff9933;
 }
 /* Pricing Section */
 #pricing {
 	padding: 120px 0 140px 0;
+	background-image: url('../img/ark2.jpg');
 }
 #pricing .pricing-table {
 	border: 1px solid #e4e4e4;
@@ -232,7 +233,7 @@ header .intro-text {
 	z-index: 1;
 }
 #pricing .pricing-table.highlight-plan .plan-name {
-	background-color: #008B8B;
+	background-color: #ff9933;
 	padding: 25px 0;
 	border-radius: 4px 4px 0 0;
 }
@@ -240,7 +241,7 @@ header .intro-text {
 	color: #fff;
 }
 #pricing .pricing-table.highlight-plan .plan-signup {
-	background-color: #008B8B;
+	background-color: #ff9933;
 	padding: 30px 0;
 	border-radius: 0 0 4px 4px;
 }
@@ -270,8 +271,8 @@ header .intro-text {
 	line-height: 18px;
 }
 .pricing-table.btn-system.border-btn {
-	border-color: #008B8B;
-	color: #008B8B;
+	border-color: #ff9933;
+	color: #ff9933;
 }
 .pricing-table .plan-list li {
 	padding: 8px;
@@ -285,7 +286,7 @@ header .intro-text {
 	padding: 10px 25px;
 	display: inline-block;
 	color: #fff;
-	background-color: #008B8B;
+	background-color: #ff9933;
 	margin-right: 5px;
 	font-size: 16px;
 	border-radius: 2px;
@@ -376,7 +377,7 @@ color: #777;
 #contact .social i.fa {
 	font-size: 26px;
 	padding: 4px;
-	color: #008B8B;
+	color: #ff9933;
 	transition: all 0.3s;
 }
 #contact .social i.fa:hover {
@@ -406,7 +407,7 @@ a:focus, .btn:focus, .btn:active:focus, .btn.active:focus, .btn.focus, .btn:acti
 	color: #666;
 }
 #footer a:hover {
-	color: #008B8B;
+	color: #ff9933;
 }
 
 @media (max-width: 1024px) {
